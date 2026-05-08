@@ -1,7 +1,7 @@
 # Simulasi Static Uneven Distribution
-**Nama:** [Isi Nama Kamu]  
+**Nama:** Kelvin Manuel P  
 **NRP:** 174 (Genap)  
-**Mata Kuliah:** Komputasi Paralel & Sistem Terdistribusi
+**Mata Kuliah:** Komputasi Paralel & Sistem Terdistribusi - CC
 
 ## Deskripsi Tugas
 Tugas ini mendemonstrasikan pembagian beban kerja secara statis namun tidak merata (uneven) menggunakan library `multiprocessing` di Python.
